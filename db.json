@@ -1,16 +1,16 @@
 {
-  "posts": [
+  "vouchers": [
     {
       "id": 1,
-      "title": "Post 1"
+      "code": "COSEWWW@11"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "code": "COSEWWW@DS"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "code": "COSEWWW@@W"
     }
   ],
   "comments": [
